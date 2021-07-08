@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} {''}
+        <p>&copy; {new Date().getFullYear()}
        <a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/cerensayar97"> Behance</a> | <a target='_blank' rel="noopener noreferrer"  href="https://www.linkedin.com/in/cerensayar/">LinkedIn</a>
 
 </p>
