@@ -23,7 +23,7 @@ const ContactPage = ({
           <form 
   action="https://formspree.io/f/xzbyvnkg"
   method="POST"
-className="form-container"">
+className="form-container">
             <div>
               <label htmlFor="w3lName">Name</label>
               <input type="text" name="w3lName" id="w3lName"/>
