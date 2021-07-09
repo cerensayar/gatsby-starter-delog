@@ -2,7 +2,7 @@
 template: BlogPost
 path: /epysode
 date: 2021-07-08T07:08:53.137Z
-title: Epysode 3D Seating Unit
+title: Epysode
 metaDescription: >-
   A sitting unit has been created inspired through the public stairs. Various
   different sitting areas can be constructed.
