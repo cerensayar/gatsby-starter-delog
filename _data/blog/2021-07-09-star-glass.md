@@ -10,6 +10,6 @@ A coffee table design inspired by stars.
 
 No assembly required.  Consists of intertwined parts. It is easy to install and provides a pleasant appearance.
 
-![](/assets/web-portfolio-22.jpg)
+![](/assets/web3.jpg)
 
-![](/assets/web-portfolio-23.jpg)
+![]()
