@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /epysode
-date: 2021-07-08T07:08:53.137Z
+date: 2018-05-10T07:08:00.000Z
 title: Epysode
 metaDescription: >-
   A sitting unit has been created inspired through the public stairs. Various
