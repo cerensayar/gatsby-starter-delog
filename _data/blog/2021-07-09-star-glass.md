@@ -2,7 +2,7 @@
 template: BlogPost
 path: /star-glass
 date: 2021-07-01T11:51:45.964Z
-title: star glass
+title: Star Glass
 metaDescription: 'A coffee table design inspired by stars. '
 thumbnail: /assets/web-portfolio-24.jpg
 ---
